@@ -1,0 +1,32 @@
+INFO  15:05:54  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/OldCodeTest768.log
+INFO  15:05:54  (TestBase.java:158) - *************************************************************************
+INFO  15:05:54  (TestBase.java:159) - The 'OldCodeTest' test has started.
+INFO  15:05:54  (TestBase.java:160) - Start time: 15/11/2022 15:05:54
+INFO  15:05:54  (TestBase.java:161) - *************************************************************************
+INFO  15:05:56  (OldCodeTest.java:19) - Click Register link
+INFO  15:05:57  (OldCodeTest.java:22) - Enter first name
+INFO  15:05:57  (OldCodeTest.java:25) - Enter last name
+INFO  15:05:58  (OldCodeTest.java:28) - Enter mail addres
+INFO  15:05:58  (OldCodeTest.java:31) - Enter password
+INFO  15:05:58  (OldCodeTest.java:34) - Confirm password
+INFO  15:05:58  (OldCodeTest.java:37) - Click Register
+INFO  15:05:58  (OldCodeTest.java:42) - Verify message: Your registration completed
+FATAL 15:05:58  (TestBase.java:126) - no such element: Unable to locate element: {"method":"css selector","selector":".result"}
+  (Session info: chrome=107.0.5304.110)
+  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Mac OS X 12.6.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Nadavs-MacBook-Pro.local', ip: '2a00:a040:1a1:fab4:5963:6aa0:46d7:5bdc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/2q/w46whz8922g...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57720}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 107.0.5304.110, webStorageEnabled: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5eac4c8ff60191ff169b475fa5b6e54e
+*** Element info: {Using=css selector, value=.result}
+INFO  15:05:59  (ApplicationManager1.java:123) - Application screenshot is saved in: C:\Selenium Workspace/Screenshots/basic/Failure screenshot for OldCodeTest1511221505848.png
+INFO  15:05:59  (TestBase.java:181) - *************************************************************************
+INFO  15:05:59  (TestBase.java:182) - The 'OldCodeTest' test has ended with error.
+INFO  15:05:59  (TestBase.java:183) - Start time: 15/11/2022 15:05:54
+INFO  15:05:59  (TestBase.java:184) - End time:       15/11/2022 15:05:59.
+INFO  15:05:59  (TestBase.java:185) - -------------------------------------------------------------------------
+INFO  15:05:59  (TestBase.java:186) - Total run time: 0 days, 0 hours, 0 minutes, 4.513 seconds.
+INFO  15:05:59  (TestBase.java:187) - *************************************************************************

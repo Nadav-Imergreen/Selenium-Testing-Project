@@ -1,0 +1,16 @@
+INFO  18:15:51  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/PageObjectCode621.log
+INFO  18:15:51  (TestBase.java:158) - *************************************************************************
+INFO  18:15:51  (TestBase.java:159) - The 'PageObjectCode' test has started.
+INFO  18:15:51  (TestBase.java:160) - Start time: 22/11/2022 18:15:51
+INFO  18:15:51  (TestBase.java:161) - *************************************************************************
+FATAL 18:15:52  (TestBase.java:126) - Unresolved compilation problem: 
+	Type mismatch: cannot convert from Page to RegisterPage
+
+INFO  18:15:53  (ApplicationManager1.java:123) - Application screenshot is saved in: C:\Selenium Workspace/Screenshots/basic/Failure screenshot for PageObjectCode2211221815786.png
+INFO  18:15:53  (TestBase.java:181) - *************************************************************************
+INFO  18:15:53  (TestBase.java:182) - The 'PageObjectCode' test has ended with error.
+INFO  18:15:53  (TestBase.java:183) - Start time: 22/11/2022 18:15:51
+INFO  18:15:53  (TestBase.java:184) - End time:       22/11/2022 18:15:53.
+INFO  18:15:53  (TestBase.java:185) - -------------------------------------------------------------------------
+INFO  18:15:53  (TestBase.java:186) - Total run time: 0 days, 0 hours, 0 minutes, 2.53 seconds.
+INFO  18:15:53  (TestBase.java:187) - *************************************************************************

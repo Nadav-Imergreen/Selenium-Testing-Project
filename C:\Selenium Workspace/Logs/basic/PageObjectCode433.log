@@ -1,0 +1,26 @@
+INFO  22:28:05  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/PageObjectCode433.log
+INFO  22:28:05  (TestBase.java:158) - *************************************************************************
+INFO  22:28:05  (TestBase.java:159) - The 'PageObjectCode' test has started.
+INFO  22:28:05  (TestBase.java:160) - Start time: 23/11/2022 22:28:05
+INFO  22:28:05  (TestBase.java:161) - *************************************************************************
+INFO  22:28:07  (MenusPage.java:27) - Click Register link
+INFO  22:28:08  (RegisterPage.java:30) - Enter first nameMoshe
+INFO  22:28:08  (MenusPage.java:27) - Click Register link
+INFO  22:28:09  (RegisterPage.java:37) - Enter first nameZucmir
+INFO  22:28:09  (MenusPage.java:27) - Click Register link
+INFO  22:28:09  (RegisterPage.java:44) - Enter mail addresreplaseAfterOneUse@gmail.com
+INFO  22:28:09  (MenusPage.java:27) - Click Register link
+INFO  22:28:10  (RegisterPage.java:51) - Enter password123456
+INFO  22:28:10  (MenusPage.java:27) - Click Register link
+INFO  22:28:10  (RegisterPage.java:57) - Confirm password123456
+INFO  22:28:11  (MenusPage.java:27) - Click Register link
+INFO  22:28:11  (RegisterPage.java:65) - Click Register Button
+FATAL 22:28:41  (TestBase.java:126) - Expected condition failed: waiting for presence of element located by: By.cssSelector: .result (tried for 30 second(s) with 500 milliseconds interval)
+INFO  22:28:42  (ApplicationManager1.java:123) - Application screenshot is saved in: C:\Selenium Workspace/Screenshots/basic/Failure screenshot for PageObjectCode2311222228760.png
+INFO  22:28:42  (TestBase.java:181) - *************************************************************************
+INFO  22:28:42  (TestBase.java:182) - The 'PageObjectCode' test has ended with error.
+INFO  22:28:42  (TestBase.java:183) - Start time: 23/11/2022 22:28:05
+INFO  22:28:42  (TestBase.java:184) - End time:       23/11/2022 22:28:42.
+INFO  22:28:42  (TestBase.java:185) - -------------------------------------------------------------------------
+INFO  22:28:42  (TestBase.java:186) - Total run time: 0 days, 0 hours, 0 minutes, 37.155 seconds.
+INFO  22:28:42  (TestBase.java:187) - *************************************************************************

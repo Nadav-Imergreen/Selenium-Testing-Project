@@ -1,0 +1,15 @@
+INFO  18:44:49  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/OldCodeTest573.log
+INFO  18:44:49  (TestBase.java:158) - *************************************************************************
+INFO  18:44:49  (TestBase.java:159) - The 'OldCodeTest' test has started.
+INFO  18:44:49  (TestBase.java:160) - Start time: 07/11/2022 18:44:49
+INFO  18:44:49  (TestBase.java:161) - *************************************************************************
+INFO  18:44:50  (OldCodeTest.java:19) - Click Register link
+INFO  18:44:52  (OldCodeTest.java:22) - Select male
+INFO  18:44:52  (OldCodeTest.java:25) - Enter first name
+INFO  18:44:54  (TestBase.java:169) - *************************************************************************
+INFO  18:44:54  (TestBase.java:170) - The 'OldCodeTest' test has ended successfully.
+INFO  18:44:54  (TestBase.java:171) - Start time: 07/11/2022 18:44:49
+INFO  18:44:54  (TestBase.java:172) - End time:       07/11/2022 18:44:54.
+INFO  18:44:54  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  18:44:54  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 4.762 seconds.
+INFO  18:44:54  (TestBase.java:175) - *************************************************************************

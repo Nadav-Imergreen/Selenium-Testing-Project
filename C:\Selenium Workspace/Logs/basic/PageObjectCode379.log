@@ -1,0 +1,21 @@
+INFO  23:05:34  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/PageObjectCode379.log
+INFO  23:05:34  (TestBase.java:158) - *************************************************************************
+INFO  23:05:34  (TestBase.java:159) - The 'PageObjectCode' test has started.
+INFO  23:05:34  (TestBase.java:160) - Start time: 23/11/2022 23:05:34
+INFO  23:05:34  (TestBase.java:161) - *************************************************************************
+INFO  23:05:35  (MenusPage.java:26) - Click Register link
+INFO  23:05:37  (RegisterPage.java:30) - Enter first name: Moshe
+INFO  23:05:37  (RegisterPage.java:37) - Enter first name: Zucmir
+INFO  23:05:37  (RegisterPage.java:44) - Enter mail addres: replaseAfterOneUse@gmail.com
+INFO  23:05:37  (RegisterPage.java:51) - Enter password: 123456
+INFO  23:05:37  (RegisterPage.java:57) - Confirm password: 123456
+INFO  23:05:37  (RegisterPage.java:65) - Click Register Button
+FATAL 23:06:08  (TestBase.java:126) - Expected condition failed: waiting for presence of element located by: By.cssSelector: .result (tried for 30 second(s) with 500 milliseconds interval)
+INFO  23:06:10  (ApplicationManager1.java:123) - Application screenshot is saved in: C:\Selenium Workspace/Screenshots/basic/Failure screenshot for PageObjectCode2311222306537.png
+INFO  23:06:10  (TestBase.java:181) - *************************************************************************
+INFO  23:06:10  (TestBase.java:182) - The 'PageObjectCode' test has ended with error.
+INFO  23:06:10  (TestBase.java:183) - Start time: 23/11/2022 23:05:34
+INFO  23:06:10  (TestBase.java:184) - End time:       23/11/2022 23:06:10.
+INFO  23:06:10  (TestBase.java:185) - -------------------------------------------------------------------------
+INFO  23:06:10  (TestBase.java:186) - Total run time: 0 days, 0 hours, 0 minutes, 36.440 seconds.
+INFO  23:06:10  (TestBase.java:187) - *************************************************************************

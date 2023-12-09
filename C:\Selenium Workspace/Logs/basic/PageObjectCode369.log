@@ -1,0 +1,14 @@
+INFO  19:25:06  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/PageObjectCode369.log
+INFO  19:25:06  (TestBase.java:158) - *************************************************************************
+INFO  19:25:06  (TestBase.java:159) - The 'PageObjectCode' test has started.
+INFO  19:25:06  (TestBase.java:160) - Start time: 23/11/2022 19:25:06
+INFO  19:25:06  (TestBase.java:161) - *************************************************************************
+INFO  19:25:11  (MenusPage.java:27) - Click Register link
+INFO  19:25:13  (RegisterPage.java:30) - Enter first nameMoshe
+INFO  19:25:14  (TestBase.java:169) - *************************************************************************
+INFO  19:25:14  (TestBase.java:170) - The 'PageObjectCode' test has ended successfully.
+INFO  19:25:14  (TestBase.java:171) - Start time: 23/11/2022 19:25:06
+INFO  19:25:14  (TestBase.java:172) - End time:       23/11/2022 19:25:14.
+INFO  19:25:14  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  19:25:14  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 7.549 seconds.
+INFO  19:25:14  (TestBase.java:175) - *************************************************************************

@@ -1,0 +1,22 @@
+INFO  15:06:15  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/OldCodeTest949.log
+INFO  15:06:16  (TestBase.java:158) - *************************************************************************
+INFO  15:06:16  (TestBase.java:159) - The 'OldCodeTest' test has started.
+INFO  15:06:16  (TestBase.java:160) - Start time: 15/11/2022 15:06:16
+INFO  15:06:16  (TestBase.java:161) - *************************************************************************
+INFO  15:06:17  (OldCodeTest.java:19) - Click Register link
+INFO  15:06:17  (OldCodeTest.java:22) - Enter first name
+INFO  15:06:17  (OldCodeTest.java:25) - Enter last name
+INFO  15:06:17  (OldCodeTest.java:28) - Enter mail addres
+INFO  15:06:18  (OldCodeTest.java:31) - Enter password
+INFO  15:06:18  (OldCodeTest.java:34) - Confirm password
+INFO  15:06:18  (OldCodeTest.java:37) - Click Register
+INFO  15:06:19  (OldCodeTest.java:42) - Verify message: Your registration completed
+INFO  15:06:19  (OldCodeTest.java:52) - Click Continue
+INFO  15:06:19  (OldCodeTest.java:57) - Verify message: Welcome to our store
+INFO  15:06:21  (TestBase.java:169) - *************************************************************************
+INFO  15:06:21  (TestBase.java:170) - The 'OldCodeTest' test has ended successfully.
+INFO  15:06:21  (TestBase.java:171) - Start time: 15/11/2022 15:06:16
+INFO  15:06:21  (TestBase.java:172) - End time:       15/11/2022 15:06:21.
+INFO  15:06:21  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  15:06:21  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 5.925 seconds.
+INFO  15:06:21  (TestBase.java:175) - *************************************************************************

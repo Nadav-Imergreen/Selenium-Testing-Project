@@ -1,0 +1,22 @@
+INFO  23:06:11  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/PageObjectCode313.log
+INFO  23:06:11  (TestBase.java:158) - *************************************************************************
+INFO  23:06:11  (TestBase.java:159) - The 'PageObjectCode' test has started.
+INFO  23:06:11  (TestBase.java:160) - Start time: 23/11/2022 23:06:11
+INFO  23:06:11  (TestBase.java:161) - *************************************************************************
+INFO  23:06:13  (MenusPage.java:26) - Click Register link
+INFO  23:06:14  (RegisterPage.java:30) - Enter first name: Moshe
+INFO  23:06:14  (RegisterPage.java:37) - Enter first name: Zucmir
+INFO  23:06:14  (RegisterPage.java:44) - Enter mail addres: ReplarrseAfterOneUse@gmail.com
+INFO  23:06:14  (RegisterPage.java:51) - Enter password: 123456
+INFO  23:06:14  (RegisterPage.java:57) - Confirm password: 123456
+INFO  23:06:15  (RegisterPage.java:65) - Click Register Button
+INFO  23:06:16  (RegisterSucceededPage.java:40) - Verify message: Your registration completed
+INFO  23:06:16  (RegisterSucceededPage.java:30) - click continue
+INFO  23:06:16  (HomePage.java:30) - Verify message: Welcome to our store
+INFO  23:06:16  (TestBase.java:169) - *************************************************************************
+INFO  23:06:16  (TestBase.java:170) - The 'PageObjectCode' test has ended successfully.
+INFO  23:06:16  (TestBase.java:171) - Start time: 23/11/2022 23:06:11
+INFO  23:06:16  (TestBase.java:172) - End time:       23/11/2022 23:06:16.
+INFO  23:06:16  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  23:06:16  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 5.45 seconds.
+INFO  23:06:16  (TestBase.java:175) - *************************************************************************
